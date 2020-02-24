@@ -1,3 +1,3 @@
-# Forked VA Community Site
+# Official VA Community Site
 
-Just adding in the little things in life.
+Website for the Vortek Academy Community!
